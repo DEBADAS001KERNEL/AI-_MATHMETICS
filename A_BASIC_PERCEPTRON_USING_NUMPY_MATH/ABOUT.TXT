@@ -3,4 +3,4 @@ It initializes random weights and bias, then iteratively trains on a set of hard
 and random binary target outputs using a sigmoid activation function. In each epoch, the perceptron 
 calculates a weighted sum plus bias, applies the sigmoid function to predict output, computes error,
 and updates the weights and bias using gradient descent. 
-After training, the final weights and bias represent the learned parameters that approximate the target outputs.
+After training, the final weights and bias represent the learned parameters that approximate the target outputs...
